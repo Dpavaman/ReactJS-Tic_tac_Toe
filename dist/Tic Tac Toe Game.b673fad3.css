@@ -1,0 +1,2 @@
+.square{width:100px;height:100px;background-color:transparent;cursor:pointer;outline:none;margin:15px;transition:1.2s;font-size:xx-large}.square:focus{outline:none;position:sticky}.square:hover{animation-name:shake;animation-duration:.5s;animation-direction:alternate;animation-iteration-count:infinite}@keyframes shake{0%{transform:rotate(8deg)}to{transform:rotate(-8deg)}}.square:hover{transform:scale(1.2)}.board{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}.ststus{font-size:xx-large}
+/*# sourceMappingURL=/Tic%20Tac%20Toe%20Game.b673fad3.css.map */
